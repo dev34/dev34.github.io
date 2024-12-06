@@ -170,6 +170,7 @@ ul.list li a {
   }
 
   .project-card {
+    height: 80vh;
     background-color: #25254b00;
     border-style: solid;
     border-color: #3c0465;
@@ -181,7 +182,8 @@ ul.list li a {
   }
   
   .project-card img {
-    width: 100%;
+    width: 20vw;
+    height: 40vh;
   }
   
   .project-card h3 {
